@@ -2,7 +2,10 @@
 # CGminer 4.11.1 GekkoScience Compac & 2pac BM1384 #
 ##################################################################################
 
-This is a cgminer 4.11.1 with support fot GekkoScience Compac & 2pac BM1384 Support.
+This is a cgminer 4.11.1 with support for the TTbit USB miner.
+THis is a modification of the Gecko miner source as it seems the TTBIT is an unlicensed copy of that hardware 
+Once built you can run it with: cgminer  --ttbit-usb-freq 100 -o pool -u
+ youruser
 
 This software is forked from cgminer 4.11.1 original from ckolivas.
 
